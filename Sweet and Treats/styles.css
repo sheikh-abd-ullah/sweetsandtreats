@@ -1,0 +1,132 @@
+.header{
+	height: 10vh;
+	width: 100%;
+	background-color: #FF0092;
+}
+.div{
+	display: inline;
+	color: white;
+}
+.div1{
+	font-size: 50px;
+	margin-left: 50px;
+    display: inline;
+    font-family: 'Tangerine', serif;
+    font-size: 68px;
+}
+.div2{
+	font-size: 40px;
+	float: right;
+    display: inline;
+    margin: 10px;
+    margin-top: 15px;
+     font-family: 'Tangerine', serif;
+}
+.section{
+	background: url(images/unnamed.jpg);
+	background-size: 450px 263px;
+	width: 100%;
+	height: 80vh;
+
+}
+.h1{
+	color: #940055;
+	position: relative;
+	top: 15px;
+	margin: 50px;
+	font-size: 100px;
+	 font-family: 'Tangerine', serif;
+}
+.section1{
+	background-color: white;
+	width: 100%;
+	height: 90vh;
+}
+.div3{
+	display: inline-flex;
+    margin: 25px;
+    font-size: 30px;
+    position: relative;
+    left: 60px;
+}
+.div4{
+	display: inline;
+	float: right;
+	margin: 25px;
+   margin-top: 50px;
+   
+}
+.DIV{
+	display: inline-flex;
+	margin-left: 180px;
+	align-content: center;
+}
+.donut{
+	display: inline;
+	width: 300px;
+	height:300px;
+	margin: 10px;
+}
+.cake{
+	display: inline;
+	width: 300px;
+	height:300px;
+	margin: 10px;
+}
+.cupcake1{
+	display: inline;
+	width: 300px;
+	height:300px;
+	margin: 10px;
+}
+.button{
+	margin: 10px;
+}
+.footer{
+	background-color: #FF0092;
+	width: 100%;
+	height: 500px;
+}
+.div9{
+    font-size: 30px;
+    position: relative;
+	top: 100px;
+	font-family: 'Tangerine', serif;
+    font-size: 35px;
+    margin: 10px;
+    color: white;
+}
+.div10{
+    margin-left: 50px;
+}
+.div11{
+    position: relative;
+    bottom: 40px; 
+}
+.section2{
+	width: 280px;
+	height: 270px;
+	background-color: white;
+	position: absolute;
+	bottom: 75px;
+	left: 800px;
+}
+.name{
+	color: black;
+	font-family: 'Inconsolata', serif;
+	font-size: 20px
+}
+.email{
+		color: black;
+	font-family: 'Inconsolata', serif;
+	font-size: 20px
+}
+.message{
+		color: black;
+	font-family: 'Inconsolata', serif;
+	font-size: 20px
+}
+.msg{
+	width: 150px;
+
+}
